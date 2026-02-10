@@ -137,4 +137,4 @@ Image sources are stored in the database where applicable.
 - Admin login available at /admin/login.php
 
 AUTHOR : 
-# Hershey Agustin
+### Hershey Agustin
