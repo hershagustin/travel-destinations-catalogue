@@ -13,7 +13,10 @@ session_start();
 // require_once('/home/hagustin2/data/connect.php');
 // $connection = db_connect();
 
-require_once('../private/connect.php');
+// require_once('../private/connect.php');
+// $connection = db_connect();
+
+require_once('connect.php');
 $connection = db_connect();
 
 function authenticate($username, $password)
