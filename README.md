@@ -136,5 +136,3 @@ Image sources are stored in the database where applicable.
 - Access the site via the homepage
 - Admin login available at /admin/login.php
 
-AUTHOR : 
-### Hershey Agustin
